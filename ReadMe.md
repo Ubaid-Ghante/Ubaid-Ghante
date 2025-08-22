@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at [@kratin_llc](https://kratinmobile.com/) as a Data Scientist<br>I'm open for collaboration on Data Science projects.<br>I'm currently working on Computer Vision, NLP and Speech-to-Text Projects.
+I'm currently working at [@ACE Software Solutions (India) Pvt Ltd](https://acesw.com/) as a Machine Learning Engineer<br>I'm open for collaboration on Data Science projects.<br>I'm currently working on Computer Vision, NLP and Voice Agent Projects.
 
 
 ## 🌐 Socials:
